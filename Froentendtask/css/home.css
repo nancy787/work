@@ -1,0 +1,77 @@
+/* .navbar-nav{
+    margin: 0 auto;
+    text-align: center;
+} */
+a:hover{
+    background-color: orange;
+   
+    
+}
+a.active{
+    background-color: orange;
+
+}
+.design
+{
+    color: red;
+}
+li{
+    margin-left:15px;
+    margin-right:15px;
+  }
+  ul
+  {
+    padding: 20px;
+    margin: 10px;
+  }
+  .des
+  {
+    font-size: larger;
+    font-family: sans-serif;
+    font-style: inherit;
+  }
+ .search
+ {
+    font-family: sans-serif;
+    padding: 10px;
+ }
+
+footer
+{
+  font-family: sans-serif;
+    padding: 10px;
+   background-color:black;
+}
+#foot
+{
+  color: white;
+}
+.footer
+{
+  color: red;
+}
+.text-center:hover
+{
+  color: red;
+}
+h1 {
+  
+  color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  0%   {color: red;}
+  25%  {color: yellow;}
+  50%  {color: blue;}
+  100% {color: green;}
+}
+.wrapper
+{
+  text-decoration: none;
+  font-family: cursive ;
+  font-weight: 700;
+  padding: 40px;
+  text-shadow: 10px;
+}
